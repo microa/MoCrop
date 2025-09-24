@@ -159,10 +159,10 @@ The framework includes tools for visualizing motion vectors and understanding th
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{mocrop2025,
+@article{huang2025mocrop,
   title={MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition},
-  author={Binhua Huang, Wendong Yao, Shaowu Chen, Guoxin Wang, Qingyuan Wang, Soumyabrata Dev},
-  journal={arXiv preprint},
+  author={Huang, Binhua and Yao, Wendong and Chen, Shaowu and Wang, Guoxin and Wang, Qingyuan and Dev, Soumyabrata},
+  journal={arXiv preprint arXiv:2509.18473},
   year={2025}
 }
 ```
