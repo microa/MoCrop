@@ -180,3 +180,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UCF-101 dataset creators
 - PyTorch and the open-source community
 - Various backbone architecture implementations
+
